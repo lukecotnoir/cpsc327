@@ -1,3 +1,5 @@
+
+
 all: main.o myfunc.o
 	g++ -o myexe main.o myfunc.o
 
